@@ -1,0 +1,98 @@
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.dll.config
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Identity.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\SimpleInjector.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Mvc.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Razor.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Owin.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Identity.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\SimpleInjector.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Mvc.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Razor.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.dll.config
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Ioc.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Identity.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\SimpleInjector.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Mvc.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Razor.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Owin.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Crosscuting.Identity.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\SimpleInjector.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Mvc.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Twilio.Api.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.Razor.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Crosscuting.Ioc\obj\Debug\ProjetoCrm.Crosscuting.Ioc.pdb

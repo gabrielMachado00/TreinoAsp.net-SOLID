@@ -1,0 +1,8 @@
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Domain\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Domain\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Domain\obj\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Domain\obj\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Domain\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Domain\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Domain\obj\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Domain\obj\Debug\ProjetoCrm.Domain.pdb

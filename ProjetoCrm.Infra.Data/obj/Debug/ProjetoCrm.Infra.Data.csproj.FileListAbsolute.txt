@@ -1,0 +1,28 @@
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.dll.config
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.Migrations.ProjetoCrm.resources
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.dll.config
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Domain.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\ProjetoCrm.Domain.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.dll
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.pdb
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.Migrations.ProjetoCrm1.resources
+C:\Users\gabriel\Desktop\ProjetoCrm1\ProjetoCrm.Infra.Data\obj\Debug\ProjetoCrm.Infra.Data.csproj.GenerateResource.Cache
